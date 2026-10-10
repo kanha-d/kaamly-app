@@ -1,0 +1,7 @@
+abstract class AppRoutes {
+  static const splash = '/';
+  static const onboarding = '/onboarding';
+  static const login = '/login';
+  static const otp = '/otp';
+  static const roleSelection = '/role-selection';
+}
